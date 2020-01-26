@@ -1,4 +1,6 @@
 # testgit
 empty file
 perfect ..... changement 1 
-check fetch   with mmm
+check fetch   
+check merge
+
